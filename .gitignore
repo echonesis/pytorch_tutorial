@@ -2,3 +2,4 @@
 
 # ignore data folder
 data/*
+notebook/.ipynb_checkpoints/
